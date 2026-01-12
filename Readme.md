@@ -4,9 +4,9 @@
 This project analyzes a dataset from **Zepto** (a quick-commerce grocery delivery platform) to evaluate pricing strategies, inventory distribution, and product discounts. Using **PostgreSQL**, the analysis focuses on identifying unit economics (price per gram), revenue potential per category, and inventory heavy-lifters.
 
 ## 📂 Data Structure
-**Source:** Kaggle (Zepto V2 Dataset)
-**Database:** PostgreSQL
-**Row Count:** ~3,731 SKUs
+**Source:** [Zepto Inventory Dataset on Kaggle](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset?resource=download)  
+**Database:** PostgreSQL  
+**Row Count:** ~3,731 SKUs  
 
 The data includes product details such as MRP, selling price, weight, availability, and discount percentages.
 
